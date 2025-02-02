@@ -13,4 +13,4 @@ To prioritize safety, the platform is actively monitored by a dedicated team, en
 
 ## Platform
 
-Go to the [Funding Platform](https://funding.rudown.com)
+Go to the [Funding Platform](https://rudown.com)
