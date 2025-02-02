@@ -16,7 +16,7 @@ jobs:
           echo REACT_APP_SOLANA_RPC_HOST="https://devnet.helius-rpc.com/?api-key=72240cfd-923b-4743-a9d8-b1fdeae41313" >> .env
           echo REACT_APP_NETWORK="devnet" >> .env
           cat .env
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: actions/cache@v3
         with:
           path: "**/node_modules"
